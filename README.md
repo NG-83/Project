@@ -3,3 +3,5 @@
 Firefox браузер можно скачать здесь: https://www.mozilla.org/ru/firefox/new/
 
 Geckodriver можно скачать здесь: https://github.com/mozilla/geckodriver/releases
+
+Из exсel файла удалены 2 сказки на украинском языке
